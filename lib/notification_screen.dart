@@ -12,7 +12,7 @@ class NotificationScreen extends StatelessWidget {
           ListTile(
             leading: Icon(Icons.notifications_active, color: Colors.orange),
             title: Text('New message'),
-            subtitle: Text('You have a new message from a tutor.'),
+            subtitle: Text('You have a new message from a tutorFFFFFFFFFFFFFF.'),
             trailing: Icon(Icons.arrow_forward),
             onTap: () {},
           ),
